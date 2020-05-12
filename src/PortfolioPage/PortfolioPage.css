@@ -1,0 +1,15 @@
+.port-cat{
+    display: inline-block;
+    margin: 0 20px;
+    transition: 0.3s;
+}
+
+.port-cat:first-child{
+    color:#a8ca6b
+}
+.port-cat:hover{
+    /* text-decoration: underline; */
+    border-bottom: 3px solid #a8ca6b;
+    cursor: pointer;
+    color: #a8ca6b;
+}

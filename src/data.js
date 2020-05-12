@@ -111,7 +111,7 @@ export const testimonialData = {
             image: '/images/testmonial.webp',
             person: 'Fannie Rowe',
             comment: 'Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.',
-            rating: 4.5
+            rating: 2.5
         },
         {
             id: 2,
